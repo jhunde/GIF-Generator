@@ -10,17 +10,28 @@
    + Library for Image Processing 
 2. MoviePy
    + Works with video files and GIFs
-3. ~~Tkinter~~ 
+3. Tkinter
    + Helps create a basic user interface
    + Having trouble install this library
 
 
 ```bash 
 pip install pillow moviepy tkinter  # install all 3 libraries
-
-# Having trouble installing tkinter
 ```
 
+---
+### Tip
+If you're running into an issue where you're having trouble installing `Tkinter` python library, run the follow code in your terminal to check if it's already installed:
+```bash
+python -m tkinter
+```
+Once you've ran the previous line of code in the terminal you should recieve a GUI pop up, which tells you that the library is already installed.
+
+![GUI](GUI.png)
+
+[Tkinter Library Documentation ](https://docs.python.org/3/library/tkinter.html)
+
+---
 
 ## GIF Generator Use Pillow
 
