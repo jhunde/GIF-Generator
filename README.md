@@ -3,6 +3,8 @@
 
 **Objective:**  Create a your own reliable GIF Generator while learning the process of how GIFs work. This project will also allow you to new python libraries such as `Pillow`, `MoviePy`, and `Tkinter`. 
 
+![GIF](output.gif)
+
 ## Install Required Libraries 
 1. Pillow (PIL)
    + Library for Image Processing 
